@@ -1,6 +1,6 @@
 <h1>CSIRO NextGen25 Machine Learning Workshop #3</h1>
 
-...
+The objective of this workshop is to revisit and reinforce the concepts explored in workshops 1 and 2 in a different problem setting.
 
 <h2>:wrench: Setup</h2> 
 
